@@ -25,4 +25,4 @@ Este site é dedicado a promover e apoiar a educação rural, oferecendo recurso
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://ukauan2203.github.io/Agrinho/
